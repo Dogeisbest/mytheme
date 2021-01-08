@@ -100,7 +100,7 @@
 .messagesErrorBar-nyJGU7 { border-radius: 100px; padding-bottom: 0; margin-bottom: 5px;}
 
 /* Nouveaux messages */
-.newMessagesBar-265mhP { background-color: #6e85d3; border-radius: 50px; margin-top: 5px; }
+.newMessagesBar-265mhP { background-color: #6ed3a6; border-radius: 50px; margin-top: 5px; }
 
 /* Bouton 'Suivre' */
 .children-19S4PO > .followButton-L6L-Us { background: var(--background-secondary-alt); }
@@ -137,7 +137,7 @@
 /* Popup d'un membre */
 .headerNormal-T_seeN, .headerPlaying-j0WQBV, .headerStreaming-2FjmGz, .headerSpotify-zpWxgT, .headerXbox-3G-4PF { background: #151b27 !important;}
 .activityUserPopout-2yItg2 { border-radius: 5px; margin: 0 8px 15px 8px; padding: 10px;}
-.headerPlaying-j0WQBV > .activityUserPopout-2yItg2 { background: #7289DA; box-shadow: 0px 4px 0px #46599c;}
+.headerPlaying-j0WQBV > .activityUserPopout-2yItg2 { background: #72dab4; box-shadow: 0px 4px 0px #469c72;}
 .headerSpotify-zpWxgT > .activityUserPopout-2yItg2 { background: #1DB954; box-shadow: 0px 4px 0px #11923e;}
 .headerStreaming-2FjmGz > .activityUserPopout-2yItg2 { background: #593695; box-shadow: 0px 4px 0px #47287c;}
 .headerXbox-3G-4PF  > .activityUserPopout-2yItg2 { background: #107C10; box-shadow: 0px 4px 0px #095509;}
