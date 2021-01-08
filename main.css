@@ -182,7 +182,7 @@
 /* Status */
 .root-SR8cQa > .topSectionSpotify-1lI0-P, .root-SR8cQa > .topSectionPlaying-1J5E4n, .root-SR8cQa > .topSectionStreaming-1Tpf5X, .root-SR8cQa > .topSectionXbox-3fWLjS { background: var(--background-tertiary);}
 .activityProfile-2bJRaP { border-radius: 5px; margin: 0 13px 13px 13px;}
-.topSectionPlaying-1J5E4n > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #7289DA; box-shadow: 0px 4px 0px #46599c;}
+.topSectionPlaying-1J5E4n > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #72dab4; box-shadow: 0px 4px 0px #469c7b;}
 .topSectionSpotify-1lI0-P > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #1DB954;  box-shadow: 0px 4px 0px #11923e;}
 .topSectionStreaming-1Tpf5X > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #593695; box-shadow: 0px 4px 0px #47287c;}
 .topSectionXbox-3fWLjS > .headerFill-adLl4x > .activityProfile-2bJRaP { background: #107C10; box-shadow: 0px 4px 0px #095509;}
@@ -192,7 +192,7 @@
 
 /* Réseaux sociaux */
 .connectedAccount-36nQx7 {
-    border: solid #151b27;
+    border: solid #152720;
     border-width: 1.2px 1.2px 3px 1.2px;
     border-radius: 4px;
     padding: 0 20px 0 0;
@@ -210,7 +210,7 @@
 [src="/assets/f0655521c19c08c4ea4e508044ec7d8c.png"] { background: #1ed75f34; }
 [src="/assets/0d44ba28e39303de3832db580a252456.png"] { background: #5dc21e42; }
 [src="/assets/806953fe1cc616477175cbcdf90d5cd3.png"] { background: #cea14638; }
-[src="/assets/5d69e29f0d71aaa04ed9725100199b4e.png"] { background: #24292e; }
+[src="/assets/5d69e29f0d71aaa04ed9725100199b4e.png"] { background: #242e2b; }
 
 /* --- 👤 PARAMETRE UTILISATEUR --- */
 
